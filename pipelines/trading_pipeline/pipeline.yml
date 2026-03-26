@@ -1,0 +1,4 @@
+name: trading_pipeline
+
+default_connections:
+  duckdb: "duckdb_default"
