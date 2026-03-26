@@ -1,0 +1,7 @@
+.venv
+.bruin.yml
+logs/runs
+logs/*.log
+__pycache__/
+data/trading.duckdb
+*.py[cod]
