@@ -1,0 +1,8 @@
+default_environment: default
+environments:
+    default:
+        connections:
+            duckdb:
+            - name: "duckdb_default"
+              path: "data/trading.duckdb"
+            
