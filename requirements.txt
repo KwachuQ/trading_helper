@@ -1,5 +1,7 @@
 yfinance>=1.2
-pandas>=3.0.0
+pandas>=2.2.0,<3.0.0
 duckdb>=1.5.1
 pytest>=9.0.2
 tzdata>=2024.1
+streamlit>=1.45.0
+plotly>=6.0.0
