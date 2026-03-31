@@ -4,4 +4,5 @@ logs/runs
 logs/*.log
 __pycache__/
 data/trading.duckdb
+docs/
 *.py[cod]
