@@ -4,6 +4,12 @@ A daily ETL pipeline that fetches end-of-day OHLCV data for QQQ, NQ futures, VIX
 
 Built with [**Bruin**](https://github.com/bruin-data/bruin) for pipeline orchestration.
 
+## Screenshots
+
+![VVIX/VIX ratio signal, regime description, and trend chart](static/dash_1.png)
+
+![VVIX/VIX & NQ ADR overlay and QQQ→NQ calculator](static/dash_2.png)
+
 ## Tracked Symbols
 
 | Symbol | Ticker | Description |
