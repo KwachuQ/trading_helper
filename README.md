@@ -1,4 +1,4 @@
-# Trading Analysis Pipeline
+# Trading Helper Pipeline
 
 A daily ETL pipeline that fetches end-of-day OHLCV data for QQQ, NQ futures, VIX, and VVIX from yfinance, stores it in a local DuckDB database, and serves an interactive Streamlit dashboard for pre-market analysis.
 
